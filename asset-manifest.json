@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/restaraunts_project/static/css/main.073c9b0a.css",
+    "main.js": "/restaraunts_project/static/js/main.8a2aae99.js",
+    "static/js/787.46091762.chunk.js": "/restaraunts_project/static/js/787.46091762.chunk.js",
+    "static/media/logo.svg": "/restaraunts_project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/restaraunts_project/index.html",
+    "main.073c9b0a.css.map": "/restaraunts_project/static/css/main.073c9b0a.css.map",
+    "main.8a2aae99.js.map": "/restaraunts_project/static/js/main.8a2aae99.js.map",
+    "787.46091762.chunk.js.map": "/restaraunts_project/static/js/787.46091762.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.8a2aae99.js"
+  ]
+}
